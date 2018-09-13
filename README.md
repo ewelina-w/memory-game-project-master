@@ -8,6 +8,8 @@ The game board consists of eight different pairs of cards. The cards are arrange
 
 The goal is to finish the game with the shorten time and with possible least moves as well as 3 stars rating.
 
+Let's try it on: https://ewelina-w.github.io/memory-game-project-master/.
+
 ## Contributing
 
 This repository is the master project. Therefore, I likely will not accept pull requests.
